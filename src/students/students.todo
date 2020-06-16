@@ -1,0 +1,5 @@
+# Regras (https://www.youtube.com/watch?v=sLx00kXPoTg)
+
+- Devemos conseguir somar as notas dos alunos;
+- Se caso uma nota for zero, a soma deve retornar zero;
+- Caso o aluno tenha mais de cinco notas, a soma deve ser multiplicada por dois;
